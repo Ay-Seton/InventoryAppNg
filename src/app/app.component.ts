@@ -26,7 +26,7 @@ export class AppComponent {
       new Product(
         'NICE HAT',
         'A nice black hat',
-        '/resources/images/products/black-hat.jpg',
+        '/assets/images/products/black-hat.jpg',
         ['Men', 'Women', 'Hats'],
         78
       ),
